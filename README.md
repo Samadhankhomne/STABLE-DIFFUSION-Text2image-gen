@@ -1,4 +1,4 @@
-# STABLE-DIFFUSION-multi-lang-text2image-gen
+# STABLE-DIFFUSION-Text2image-gen
 
 TEXT PROMPT TO IMAGE GENERATION USING HUGGING FACE & PYTORCH 
 -------------------------------------------------------------
